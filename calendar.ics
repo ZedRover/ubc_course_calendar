@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UBC Course Calendar//EN
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+SUMMARY:COMM_V 618 - Discrete Optimization II
+DTSTART;TZID=America/Vancouver:20250107T140000
+DTEND;TZID=America/Vancouver:20250107T153000
+RRULE:FREQ=WEEKLY;UNTIL=20250213T235959;BYDAY=TU,TH
+DESCRIPTION:Instructor: Mahesh Nagarajan\n\nS Thomas McCormick\nSection: C
+ OMM_V 618-001 - Discrete Optimization II
+LOCATION:In Person Learning | ANGU-Floor 3 & 4-Room 332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMM_V 618 - Discrete Optimization II
+DTSTART;TZID=America/Vancouver:20250225T140000
+DTEND;TZID=America/Vancouver:20250225T153000
+RRULE:FREQ=WEEKLY;UNTIL=20250408T235959;BYDAY=TU,TH
+DESCRIPTION:Instructor: Mahesh Nagarajan\n\nS Thomas McCormick\nSection: C
+ OMM_V 618-001 - Discrete Optimization II
+LOCATION:In Person Learning | ANGU-Floor 3 & 4-Room 332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMM_V 616 - Optimization Theory and Applications
+DTSTART;TZID=America/Vancouver:20240903T100000
+DTEND;TZID=America/Vancouver:20240903T133000
+RRULE:FREQ=WEEKLY;UNTIL=20241203T235959;BYDAY=TU
+DESCRIPTION:Instructor: Jiajin Li\nSection: COMM_V 616-001 - Optimization 
+ Theory and Applications
+LOCATION:In Person Learning | ANGU-Floor 4 & 5-Room 432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHBE_V 552 - Optimization Methods
+DTSTART;TZID=America/Vancouver:20250106T113000
+DTEND;TZID=America/Vancouver:20250106T130000
+RRULE:FREQ=WEEKLY;UNTIL=20250212T235959;BYDAY=MO,WE
+DESCRIPTION:Instructor: Bhushan Gopaluni\n\nYankai Cao\nSection: CHBE_V 55
+ 2-201 - Optimization Methods
+LOCATION:In Person Learning | CEME-Floor 1-Room 1210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHBE_V 552 - Optimization Methods
+DTSTART;TZID=America/Vancouver:20250224T113000
+DTEND;TZID=America/Vancouver:20250224T130000
+RRULE:FREQ=WEEKLY;UNTIL=20250407T235959;BYDAY=MO,WE
+DESCRIPTION:Instructor: Bhushan Gopaluni\n\nYankai Cao\nSection: CHBE_V 55
+ 2-201 - Optimization Methods
+LOCATION:In Person Learning | CEME-Floor 1-Room 1210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPSC_V 532 - Topics in Artificial Intelligence
+DTSTART;TZID=America/Vancouver:20240903T130000
+DTEND;TZID=America/Vancouver:20240903T143000
+RRULE:FREQ=WEEKLY;UNTIL=20241204T235959;BYDAY=MO,WE
+DESCRIPTION:Instructor: Danica Sutherland\nSection: CPSC_V 532-D_101 - STA
+ T LEARN THRY (D)
+LOCATION:In Person Learning | PCN-Floor 1-Room 1011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EECE_V 568 - From Exploring to Building Machine Learning Models
+DTSTART;TZID=America/Vancouver:20240903T153000
+DTEND;TZID=America/Vancouver:20240903T170000
+RRULE:FREQ=WEEKLY;UNTIL=20241205T235959;BYDAY=TU,TH
+DESCRIPTION:Instructor: Matthew Yedlin\nSection: EECE_V 568-101 - From Exp
+ loring to Building Machine Learning Models
+LOCATION:In Person Learning | MCLD-Floor 2-Room 2002
+END:VEVENT
+END:VCALENDAR
